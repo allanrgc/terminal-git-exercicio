@@ -1,3 +1,11 @@
+minha-bio
 Meu nome é Allan, moro na Paraíba e estou aprendendo bastante com a Labenu. A 
 Labenu está me preparando para ser um DEV Full Stack.
 O aprendizado é notável e estou contente com isso!
+=======
+[ parte com erro por que estava direcionado para o main branch] Estou cursando a Labenu e minha experiência se aprimora a cada dia.
+A experiência é incrível e os instrutores são ótimos. 
+Meu progresso é notável. Eu me sinto contente.
+
+Neste momento estou numa turma divida apresentando o progresso.
+>>>>>>> main
